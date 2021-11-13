@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/wa-react-2021-q4-internal-capstone-project/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/main.def94084.chunk.js",
-    "main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/main.def94084.chunk.js.map",
-    "runtime-main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.f6089624.js",
-    "runtime-main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.f6089624.js.map",
-    "static/js/2.6891b2b5.chunk.js": "/wa-react-2021-q4-internal-capstone-project/static/js/2.6891b2b5.chunk.js",
-    "static/js/2.6891b2b5.chunk.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/2.6891b2b5.chunk.js.map",
-    "static/js/3.375e9e80.chunk.js": "/wa-react-2021-q4-internal-capstone-project/static/js/3.375e9e80.chunk.js",
-    "static/js/3.375e9e80.chunk.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/3.375e9e80.chunk.js.map",
+    "main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/main.6c736996.chunk.js",
+    "main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/main.6c736996.chunk.js.map",
+    "runtime-main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.3b7e8a42.js",
+    "runtime-main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.3b7e8a42.js.map",
+    "static/js/2.a01cfcb8.chunk.js": "/wa-react-2021-q4-internal-capstone-project/static/js/2.a01cfcb8.chunk.js",
+    "static/js/2.a01cfcb8.chunk.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/2.a01cfcb8.chunk.js.map",
+    "static/js/3.7a616e22.chunk.js": "/wa-react-2021-q4-internal-capstone-project/static/js/3.7a616e22.chunk.js",
+    "static/js/3.7a616e22.chunk.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/3.7a616e22.chunk.js.map",
     "index.html": "/wa-react-2021-q4-internal-capstone-project/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/wa-react-2021-q4-internal-capstone-project/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.6891b2b5.chunk.js.LICENSE.txt": "/wa-react-2021-q4-internal-capstone-project/static/js/2.6891b2b5.chunk.js.LICENSE.txt",
-    "static/media/image.79e64864.png": "/wa-react-2021-q4-internal-capstone-project/static/media/image.79e64864.png"
+    "static/js/2.a01cfcb8.chunk.js.LICENSE.txt": "/wa-react-2021-q4-internal-capstone-project/static/js/2.a01cfcb8.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart.f1209183.svg": "/wa-react-2021-q4-internal-capstone-project/static/media/shopping-cart.f1209183.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6089624.js",
-    "static/js/2.6891b2b5.chunk.js",
+    "static/js/runtime-main.3b7e8a42.js",
+    "static/js/2.a01cfcb8.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.def94084.chunk.js"
+    "static/js/main.6c736996.chunk.js"
   ]
 }
