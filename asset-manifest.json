@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wa-react-2021-q4-internal-capstone-project/static/css/main.5825069d.chunk.css",
-    "main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/main.2a24f47d.chunk.js",
-    "main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/main.2a24f47d.chunk.js.map",
+    "main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/main.88be8e08.chunk.js",
+    "main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/main.88be8e08.chunk.js.map",
     "runtime-main.js": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.01be3da7.js",
     "runtime-main.js.map": "/wa-react-2021-q4-internal-capstone-project/static/js/runtime-main.01be3da7.js.map",
     "static/js/2.02009348.chunk.js": "/wa-react-2021-q4-internal-capstone-project/static/js/2.02009348.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.01be3da7.js",
     "static/js/2.02009348.chunk.js",
     "static/css/main.5825069d.chunk.css",
-    "static/js/main.2a24f47d.chunk.js"
+    "static/js/main.88be8e08.chunk.js"
   ]
 }
